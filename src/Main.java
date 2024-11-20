@@ -16,6 +16,7 @@ public class Main {
         System.out.println(bookName2);
 
         System.out.println(bookName1.equals(bookName2));
+        System.out.println(author1.equals(author2));
 
         System.out.println(bookName1.hashCode());
         System.out.println(bookName2.hashCode());
